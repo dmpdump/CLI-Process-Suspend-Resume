@@ -1,4 +1,4 @@
-# Resume a process fromt the command line
+//Process Resume
 
 #include <windows.h>
 #include <stdio.h>
